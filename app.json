@@ -1,0 +1,11 @@
+{
+    "name": "Back-end_XPTO",
+    "description": "XPTO BRAVO",
+    "keywords": [
+        "node",
+        "express",
+        "mocha",
+        "socket.io",
+        "heroku"
+    ]
+}
